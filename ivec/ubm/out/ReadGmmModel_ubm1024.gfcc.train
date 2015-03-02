@@ -1,0 +1,36 @@
+MixtureNum     = 1024
+VecSize        = 69
+VecSizeStore   = 72
+FeatKind       = 30001
+nTotalParamSize       = 598016
+Warning : [mix=  75] fMat=5.598644
+Warning : [mix= 160] fMat=6.294046
+Warning : [mix= 177] fMat=3.292005
+Warning : [mix= 257] fMat=4.462950
+Warning : [mix= 258] fMat=9.199677
+Warning : [mix= 263] fMat=9.055446
+Warning : [mix= 355] fMat=0.662596
+Warning : [mix= 438] fMat=0.184720
+Warning : [mix= 461] fMat=6.509905
+Warning : [mix= 462] fMat=6.639230
+Warning : [mix= 513] fMat=9.973927
+Warning : [mix= 514] fMat=9.876307
+Warning : [mix= 515] fMat=10.379470
+Warning : [mix= 516] fMat=9.530403
+Warning : [mix= 517] fMat=10.266955
+Warning : [mix= 527] fMat=10.008998
+Warning : [mix= 528] fMat=1.484801
+Warning : [mix= 529] fMat=9.732216
+Warning : [mix= 530] fMat=6.608036
+Warning : [mix= 540] fMat=6.761699
+Warning : [mix= 547] fMat=9.391563
+Warning : [mix= 587] fMat=9.684008
+Warning : [mix= 594] fMat=10.151588
+Warning : [mix= 607] fMat=8.886853
+Warning : [mix= 631] fMat=8.862093
+Warning : [mix= 643] fMat=5.227042
+Warning : [mix= 647] fMat=8.978590
+Warning : [mix= 648] fMat=4.603824
+Warning : [mix= 676] fMat=4.539200
+Warning : [mix= 959] fMat=9.637197
+ok!

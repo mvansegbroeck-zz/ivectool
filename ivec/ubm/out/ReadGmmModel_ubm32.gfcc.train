@@ -1,0 +1,7 @@
+MixtureNum     = 32
+VecSize        = 69
+VecSizeStore   = 72
+FeatKind       = 30001
+nTotalParamSize       = 18688
+Warning : [mix=  17] fMat=8.413171
+ok!

@@ -1,0 +1,1 @@
+g++ -O3 -Wall -o sc_compute_suf_stats_64 main.cpp sc_compute_suf_stats.cpp -L/saildisk/rats/LID/F/intel/ipp/6.1.2.051/em64t/lib -L/lib  -I/saildisk/rats/LID/F/intel/ipp/6.1.2.051/em64t/include  -lippsemergedem64t -lippsmergedem64t -lippsremergedem64t -lippsrmergedem64t -lippcoreem64t -lpthread

@@ -1,0 +1,1 @@
+g++ -O3 -o WCCN wccn.cpp  -L/media/maarten/RATS/LID/F/intel/ipp/6.1.2.051/em64t/lib -L/lib  -I/media/maarten/RATS/LID/F/intel/ipp/6.1.2.051/em64t/include   -lpthread -lippsemergedem64t -lippsmergedem64t -lippsremergedem64t -lippsrmergedem64t -lippmemergedem64t -lippmmergedem64t -lippcoreem64t
